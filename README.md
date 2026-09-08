@@ -1,8 +1,4 @@
-<div class="filament-hidden">
-
-<!-- banner: art/jeffersongoncalves-pest-plugin-mysql-compat.png (generate via portfolio-banner skill) -->
-
-</div>
+![Pest Plugin MySQL Compat](banners/pest-plugin-mysql-compat.png)
 
 # Pest Plugin MySQL Compat
 
